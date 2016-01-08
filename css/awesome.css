@@ -1,0 +1,37 @@
+body {
+    overflow-x:hidden;
+}
+
+#homepage{
+background-image: url("../wp-content/uploads/2015/11/7497bw_0027.jpg");  
+min-height: 94vh;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
+background-size: cover;
+}
+
+#homepage1{
+background-image: url("../wp-content/uploads/2015/11/7497bw_0027.jpg");  
+min-height: 100vh;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
+background-size: cover;
+}
+
+.parallax-window {
+    min-height: 50vh;
+    background: transparent;
+} 
+
+.title-textproperties {
+	color: white;
+    font-size: 75px;
+}
+
+.desc-textproperties {
+	color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 18px;
+}

@@ -1,0 +1,45 @@
+<!-- Author: Jester Taguibao (taguibaojester@gmail.com) -->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mockup</title>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/custom.css">
+<link rel="stylesheet" href="css/owl.carousel.css">
+</head>
+<body>
+<nav class="navbar navbar-default navbar-fixed-top">
+	<div class="container-fluid">
+    	<a class="navbar-brand" href="#">
+        	Test
+    	</a>
+
+    	<div>
+    		Test
+    	</div>
+  	</div>
+</nav>
+<button>Test</button>
+<div id="owl-demo" class="owl-carousel owl-theme">
+ 	
+  <div class="item"><img src="assets/salt_lake/7497bw_0027.jpg" alt="The Last of us"></div>
+  <div class="item"><img src="assets/salt_lake/5954bw_0009.jpg" alt="GTA V"></div>
+  <div class="item"><img src="assets/salt_lake/6106bw_0012.jpg" alt="Mirror Edge"></div>
+ 
+</div>
+
+<footer>
+	
+</footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="js/jquery.windows.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/custom.js"></script>
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+</body>
+</html>
