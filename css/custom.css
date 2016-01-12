@@ -16,3 +16,7 @@ padding-bottom: 70px;
     background-attachment: fixed;
     background-position: center; 
 }
+
+.navbar { 	background: #f8f8ff; 
+			height:70px; 
+		}
