@@ -23,7 +23,7 @@ padding-bottom: 70px;
 }
 
 .nav-ctext {
-	color: #D6D6D6;
+	color: #111111 !important;
 	font-size: 18px;
 	margin-top: 9px;
 	margin-left: 10%;
@@ -32,6 +32,6 @@ padding-bottom: 70px;
 .prolook-textbox {
 	color: #D6D6D6;
 	font-size: 18px;
-	margin-top: 9px;
+	margin-top: 10px;
 	
 }
