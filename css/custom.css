@@ -17,6 +17,13 @@ padding-bottom: 70px;
     background-position: center; 
 }
 
-.navbar { 	background: #f8f8ff; 
-			height:70px; 
-		}
+.navbar { 	
+	background: #f8f8ff; 
+	height:70px; 
+}
+
+.nav-ctext{
+	color: #D6D6D6;
+	font-size: 20px;
+	font-style: bold;
+}
