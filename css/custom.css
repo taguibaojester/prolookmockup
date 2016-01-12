@@ -5,10 +5,12 @@ padding-bottom: 70px;
 }
 
 #prolook-cover{
-/*background-image: url("../assets/salt_lake/5687_0008.jpg");*/
-background: url("../assets/salt_lake/5687_0008.jpg") no-repeat;
-    background-size: 100%;
-    height: 100vh;
+	background-image: url("../assets/salt_lake/5687_0008.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+	height: 100vh;
+	min-width: 100%;
 }
 
 #owl-demo .item img{
@@ -43,7 +45,8 @@ background: url("../assets/salt_lake/5687_0008.jpg") no-repeat;
 }
 
 .prolook-lightbutton {
-	border: 3px solid #4E4949;		
+	border: 3px solid #4E4949;	
+	opacity: 0.8;	
 }
 
 .prolook-darkbutton {
