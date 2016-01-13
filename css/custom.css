@@ -28,7 +28,7 @@ padding-bottom: 70px;
 
 .navbar { 	
 	background: #f8f8ff; 
-	height:70px; 
+	height:80px; 
 }
 
 .nav-ctext {
@@ -52,4 +52,8 @@ padding-bottom: 70px;
 .prolook-darkbutton {
 	color: #D6D6D6;
 	font-size: 18px;		
+}
+
+.prolook-border{
+	border: 1px solid #4E4949;
 }
