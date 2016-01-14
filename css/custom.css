@@ -58,8 +58,13 @@ padding-bottom: 70px;
 	border: 1px solid #4E4949;
 }
 
+.prolook-left-border{
+	border-left-style: solid;
+	border-color: red
+}
+
 .prolook-borderlight{
-	border: 1px solid #E6E6E6	
+	border: 1px solid #E6E6E6;	
 }
 
 .prolook-bgcolor{
