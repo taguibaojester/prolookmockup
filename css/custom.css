@@ -72,6 +72,20 @@ padding-bottom: 70px;
 	background-color: #EDEDED;
 }
 
+/*code test*/
+.prolook--hover-color-red:hover{
+	color: red;
+}
+
+.grow { 
+	transition: all .2s ease-in-out; 
+}
+.grow:hover { 
+	transform: scale(1.1); 
+	color: red;
+}
+/*code test*/
+
 #prolook-sports-cover-1{
 	background-image: url("../assets/salt_lake/5687_0008.jpg");
 	background-repeat: no-repeat;
