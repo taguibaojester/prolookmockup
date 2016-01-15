@@ -1,7 +1,7 @@
 
 body { 
 overflow-x:hidden;
-padding-bottom: 70px;
+padding-bottom: 80px;
 }
 
 #prolook-cover{
@@ -93,4 +93,9 @@ padding-bottom: 70px;
 	background-position: center; 
 	height: 100vh;
 	min-width: 100%;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
 }
