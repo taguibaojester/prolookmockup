@@ -104,6 +104,15 @@ nav ul {
 
 }
 
+nav ul {
+  background: #E6E6E6;
+  list-style:none;
+  padding:0 20px;
+  margin: 0;
+  height: 60px;
+  border: 1px solid #ABABAB;	
+
+}
 
 nav ul li {
   display: inline-block;
@@ -138,9 +147,10 @@ nav ul ul {
   padding:0;
   text-align: center;
   display:none;
-    width: 100%;
+  width: 100%;
   position: absolute;
   top: 60px;
+  height: 300px;
   left: 0px;
 }
 
