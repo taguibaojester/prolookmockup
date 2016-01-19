@@ -26,7 +26,7 @@ padding-bottom: 80px;
     background-position: center; 
 }
 
-.navbar { 	
+/*.navbar { 	
 	background: #f8f8ff; 
 	height:80px; 
 }
@@ -36,7 +36,7 @@ padding-bottom: 80px;
 	font-size: 18px;
 	margin-top: 9px;
 	margin-left: 10%;
-}
+}*/
 
 .prolook-textbox {
 	color: #D6D6D6;
@@ -84,8 +84,65 @@ padding-bottom: 80px;
 
 
 /*code test*/
+nav {
+  text-align:center;
+  width: 100%;
+  background: #B50000;
+  padding: 0;
+  margin: 0;
+  height: 60px;
+  position:relative;
+}
+
+nav ul {
+  background: #E6E6E6;
+  list-style:none;
+  padding:0 20px;
+  margin: 0;
+  height: 60px;
+  border: 1px solid #ABABAB;	
+
+}
 
 
+nav ul li {
+  display: inline-block;
+}
+
+
+nav ul li a {
+  color:#333333;
+  display:block;
+  padding:0px 40px;
+  text-decoration:none;
+  float: left;
+  height: 60px;
+   line-height: 60px;
+}
+
+nav ul li:hover {
+  background: #333333;
+}
+
+
+nav ul li:hover > a{
+    color:#FFFFFF;
+}
+
+nav ul li:hover > ul {
+  display:block;
+}
+
+nav ul ul {
+  background: #BEBEBE;
+  padding:0;
+  text-align: center;
+  display:none;
+    width: 100%;
+  position: absolute;
+  top: 60px;
+  left: 0px;
+}
 
 /*code test*/
 
