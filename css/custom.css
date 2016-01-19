@@ -126,7 +126,7 @@ nav ul li a {
   text-decoration:none;
   float: left;
   height: 60px;
-   line-height: 60px;
+  line-height: 60px;
 }
 
 nav ul li:hover {
